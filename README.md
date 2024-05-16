@@ -32,7 +32,7 @@ Checking Token Balance
 Shop Items
 - Players can view the available items in the in-game store by calling the `showShopItems` function.
 
-## Deployment
+## Deployment / Contributor
 
 The contract has been deployed on the Avalanche network with the following parameters:
 
