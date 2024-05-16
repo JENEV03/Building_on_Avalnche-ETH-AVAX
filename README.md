@@ -36,6 +36,6 @@ Shop Items
 
 The contract has been deployed on the Avalanche network with the following parameters:
 
-- **Contract Address:** Jenevive Geralin [JENEV03]
+- **Contact Name:** Jenevive Geralin [JENEV03]
 - **Owner Address:** [8211907@ntc.edu.ph]
 
