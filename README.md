@@ -8,7 +8,7 @@ DegenToken is an ERC20 token contract deployed on the Avalanche network for Dege
 
 ## Contract Details
 
-- **Name:** DegenToken
+- **Name:** JENEVIVE
 - **Symbol:** JEN
 - **Decimals:** 0
 
@@ -36,6 +36,6 @@ Shop Items
 
 The contract has been deployed on the Avalanche network with the following parameters:
 
-- **Contract Address:** [Add Contract Address Here]
-- **Owner Address:** [Add Owner Address Here]
+- **Contract Address:** Jenevive Geralin [JENEV03]
+- **Owner Address:** [8211907@ntc.edu.ph]
 
