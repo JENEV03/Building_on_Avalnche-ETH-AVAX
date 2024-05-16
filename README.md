@@ -14,22 +14,22 @@ DegenToken is an ERC20 token contract deployed on the Avalanche network for Dege
 
 ## Functionalities
 
-### Minting New Tokens
+Minting New Tokens
 - The owner of the contract can mint new tokens by calling the `mintDGN` function.
 
-### Transferring Tokens
+Transferring Tokens
 - Players can transfer their tokens to others using the `transferDGN` function.
 
-### Redeeming Tokens
+Redeeming Tokens
 - Players can redeem their tokens for items in the in-game store by calling the `redeemDGN` function.
 
-### Burning Tokens
+Burning Tokens
 - Players can burn their tokens if they are no longer needed by calling the `burnDGN` function.
 
-### Checking Token Balance
+Checking Token Balance
 - Players can check their token balance at any time by calling the `getBalance` function.
 
-### Shop Items
+Shop Items
 - Players can view the available items in the in-game store by calling the `showShopItems` function.
 
 ## Deployment
@@ -39,6 +39,3 @@ The contract has been deployed on the Avalanche network with the following param
 - **Contract Address:** [Add Contract Address Here]
 - **Owner Address:** [Add Owner Address Here]
 
-## Support
-
-For any inquiries or issues, please contact [Degen Gaming](https://example.com).
