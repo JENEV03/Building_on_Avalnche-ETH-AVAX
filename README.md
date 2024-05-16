@@ -1,4 +1,4 @@
-# Building_on_Avalnche-ETH-AVAX
+# Building_on_Avalanche-ETH-AVAX
 
 # DegenToken
 
